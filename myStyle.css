@@ -1,0 +1,109 @@
+*
+{
+	margin: 0 auto;
+}
+.clear
+{
+	clear: both;
+}
+.wrapper
+{
+    max-width: 1180px;
+    background: #900;
+}
+body
+{
+	background-color: ;
+}
+.head-part
+{
+	margin-top: 5px;
+}
+.logo img
+{
+	width: 100%;
+	height: 100%;
+	max-height: 100px;
+}
+.adv-part img
+{
+	width: 100%;
+	height: 100%;
+	max-height: 100px;
+}
+.Menu
+{
+    width: 100%;
+    background: #766338;
+    height: 45px;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.Menu ul
+{
+    list-style: none;
+    margin-left: 0px;
+}
+.Menu ul li{
+    list-style: none;
+    float: left;
+    padding: 10px 20px;
+}
+.Menu ul li a
+{
+    text-decoration: none;
+    color: #ffff44;
+}
+.Menu ul li a:hover
+{
+	cursor: grab;
+}
+.main-part
+{
+	width: 100%;
+	height: 500px;
+	margin-top: 5px;
+}
+.desp1
+{
+	width: 100%;
+	height: 300px;
+}
+.desp1 img
+{
+	width: 100%;
+	height: 100%;
+	max-height: 300px;
+}
+.desp1 span
+{
+	display: none;
+}
+.main-part2
+{
+	width: 100%;
+	height: 120px;
+	margin-top: 10px;
+	background-color: ;
+	margin-left: 10px;
+}
+.adv-full
+{
+	width: 100%;
+	height: 100px;
+}
+.adv-full img
+{
+	width: 100%;
+	height: 100px;
+}
+.formStl
+{
+	margin-left: auto;
+/*	margin-right: auto;
+*/}
+label, input, textarea
+{
+	display: block;
+}
